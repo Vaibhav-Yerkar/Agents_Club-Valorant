@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Agents_Club-Valorant/static/css/main.1e416395.css",
-    "main.js": "/Agents_Club-Valorant/static/js/main.c96fd0d5.js",
+    "main.js": "/Agents_Club-Valorant/static/js/main.a59807c0.js",
     "static/media/slick.svg": "/Agents_Club-Valorant/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Agents_Club-Valorant/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/Agents_Club-Valorant/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Agents_Club-Valorant/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Agents_Club-Valorant/index.html",
     "main.1e416395.css.map": "/Agents_Club-Valorant/static/css/main.1e416395.css.map",
-    "main.c96fd0d5.js.map": "/Agents_Club-Valorant/static/js/main.c96fd0d5.js.map"
+    "main.a59807c0.js.map": "/Agents_Club-Valorant/static/js/main.a59807c0.js.map"
   },
   "entrypoints": [
     "static/css/main.1e416395.css",
-    "static/js/main.c96fd0d5.js"
+    "static/js/main.a59807c0.js"
   ]
 }
